@@ -10,8 +10,8 @@
 
 #Specifically ignored directories#
 #--------------------------------#
-ProjectCyberShot/Saved/Logs
-ProjectCyberShot/Saved/Config
+ProjectCyberShot/Saved/Logs/
+ProjectCyberShot/Saved/Config/
 
 #Specifically ignored files#
 #--------------------------#
