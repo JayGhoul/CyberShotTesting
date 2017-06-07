@@ -1,1 +1,19 @@
+#-------------------------------------#
+#           Global.gitignore          #
+#  DO NOT MODIFY WITHOUT BUNNY / JAY  #
+#-------------------------------------#
+
+#Ignore section for entire file types#
+#------------------------------------#
+*.log
+*.sav
+
+#Specifically ignored directories#
+#--------------------------------#
+ProjectCyberShot/Saved/Logs
+ProjectCyberShot/Saved/Config
+
+#Specifically ignored files#
+#--------------------------#
+ProjectCyberShot/Saved/AutoScreenshot.png
 Locations.sav
