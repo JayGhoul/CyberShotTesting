@@ -221,4 +221,24 @@ LogInit: Object subsystem initialized
 [2017.06.08-12.57.03:761][248]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Midnight/Desktop/CyberShotTesting/ProjectCyberShot/Content/CyberShot/Entities/LivingEntities/AIEntities/Ais/Base_AIBlackboard.uasset
 [2017.06.08-12.59.39:671][474]LogSavePackage: Save=6.56ms
 [2017.06.08-12.59.39:671][474]LogSavePackage: Moving '../../../../../../Users/Midnight/Desktop/CyberShotTesting/ProjectCyberShot/Saved/Base_AIBehavior630FF9E14AD76DE50BE777A1D1777E55.tmp' to '../../../../../../Users/Midnight/Desktop/CyberShotTesting/ProjectCyberShot/Content/CyberShot/Entities/LivingEntities/AIEntities/Ais/Base_AIBehavior.uasset'
-[2017.06.08-12.59.39:683][474]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Midnight/Desktop/CyberShotTesting/ProjectCyberShot/Content/CyberShot/Entities
+[2017.06.08-12.59.39:683][474]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Midnight/Desktop/CyberShotTesting/ProjectCyberShot/Content/CyberShot/Entities/LivingEntities/AIEntities/Ais/Base_AIBehavior.uasset
+[2017.06.08-13.00.08:423][481]BlueprintLog: New page: Compile Base_AIController
+[2017.06.08-13.00.08:836][481]LogSavePackage: Save=51.56ms
+[2017.06.08-13.00.08:836][481]LogSavePackage: Moving '../../../../../../Users/Midnight/Desktop/CyberShotTesting/ProjectCyberShot/Saved/Base_AIController99B51589448D9AD41C334EB895CEE0DB.tmp' to '../../../../../../Users/Midnight/Desktop/CyberShotTesting/ProjectCyberShot/Content/CyberShot/Entities/LivingEntities/AIEntities/Ais/Base_AIController.uasset'
+[2017.06.08-13.00.08:850][481]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Midnight/Desktop/CyberShotTesting/ProjectCyberShot/Content/CyberShot/Entities/LivingEntities/AIEntities/Ais/Base_AIController.uasset
+[2017.06.08-13.00.08:858][481]BlueprintEditorCompileResults: Info [0754.81] Compile of Base_AIController successful! [in 434 ms] (/Game/CyberShot/Entities/LivingEntities/AIEntities/Ais/Base_AIController.Base_AIController)
+[2017.06.08-13.03.58:339][607]LogSavePackage: Save=12.08ms
+[2017.06.08-13.03.58:339][607]LogSavePackage: Moving '../../../../../../Users/Midnight/Desktop/CyberShotTesting/ProjectCyberShot/Saved/Base_AIBehavior9A91D44D4B8DE423FBFE4386A4E54421.tmp' to '../../../../../../Users/Midnight/Desktop/CyberShotTesting/ProjectCyberShot/Content/CyberShot/Entities/LivingEntities/AIEntities/Ais/Base_AIBehavior.uasset'
+[2017.06.08-13.03.58:356][607]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Midnight/Desktop/CyberShotTesting/ProjectCyberShot/Content/CyberShot/Entities/LivingEntities/AIEntities/Ais/Base_AIBehavior.uasset
+[2017.06.08-13.04.49:095][ 26]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/CyberShot/Entities/LivingEntities/AIEntities/Ais/BTService_BlueprintBase_New.
+[2017.06.08-13.05.20:975][986]LogSavePackage: Save=19.16ms
+[2017.06.08-13.05.20:975][986]LogSavePackage: Moving '../../../../../../Users/Midnight/Desktop/CyberShotTesting/ProjectCyberShot/Saved/AgroCheck_Service40E57BE84ADEF9528465C989A4F8B11D.tmp' to '../../../../../../Users/Midnight/Desktop/CyberShotTesting/ProjectCyberShot/Content/CyberShot/Entities/LivingEntities/AIEntities/Ais/AgroCheck_Service.uasset'
+[2017.06.08-13.05.20:988][986]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Midnight/Desktop/CyberShotTesting/ProjectCyberShot/Content/CyberShot/Entities/LivingEntities/AIEntities/Ais/AgroCheck_Service.uasset
+[2017.06.08-13.05.20:991][986]LogMetaData: Removing '/Game/CyberShot/Entities/LivingEntities/AIEntities/Ais/AgroCheck_Service.SKEL_AgroCheck_Service_C' ref from Metadata '/Game/CyberShot/Entities/LivingEntities/AIEntities/Ais/BTService_BlueprintBase_New.PackageMetaData'
+[2017.06.08-13.05.20:991][986]LogMetaData: Removing '/Game/CyberShot/Entities/LivingEntities/AIEntities/Ais/AgroCheck_Service.AgroCheck_Service_C' ref from Metadata '/Game/CyberShot/Entities/LivingEntities/AIEntities/Ais/BTService_BlueprintBase_New.PackageMetaData'
+[2017.06.08-13.05.21:065][986]LogSavePackage: Save=6.65ms
+[2017.06.08-13.05.21:065][986]LogSavePackage: Moving '../../../../../../Users/Midnight/Desktop/CyberShotTesting/ProjectCyberShot/Saved/AgroCheck_Service831DCA7E4E274B0A6A1579A520EE92F2.tmp' to '../../../../../../Users/Midnight/Desktop/CyberShotTesting/ProjectCyberShot/Content/CyberShot/Entities/LivingEntities/AIEntities/Ais/AgroCheck_Service.uasset'
+[2017.06.08-13.05.21:079][986]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Midnight/Desktop/CyberShotTesting/ProjectCyberShot/Content/CyberShot/Entities/LivingEntities/AIEntities/Ais/AgroCheck_Service.uasset
+[2017.06.08-13.05.21:446][987]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/CyberShot/Entities/LivingEntities/AIEntities/Ais/AgroCheck_Service.
+[2017.06.08-13.05.28:296][244]LogSavePackage: Save=7.16ms
+[2017.06.08-13.05.28:297][244]LogSavePackage: Moving '../../../../../../Users/Midnight/Desktop/CyberShotTesting/ProjectCyberShot/Saved/AgroCheck_SC65F8ED74353F62E9FFE98A8B2CA777D.tmp' to '../../../../..
