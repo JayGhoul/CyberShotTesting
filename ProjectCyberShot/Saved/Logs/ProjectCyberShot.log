@@ -196,4 +196,29 @@ LogInit: Object subsystem initialized
 [2017.06.08-12.49.29:830][806]LogSavePackage: Moving '../../../../../../Users/Midnight/Desktop/CyberShotTesting/ProjectCyberShot/Saved/Base_AIBehaviorB4A5760C4EB10BD63AA4CDB1893EAD34.tmp' to '../../../../../../Users/Midnight/Desktop/CyberShotTesting/ProjectCyberShot/Content/CyberShot/Entities/LivingEntities/AIEntities/Ais/Base_AIBehavior.uasset'
 [2017.06.08-12.49.29:840][806]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Midnight/Desktop/CyberShotTesting/ProjectCyberShot/Content/CyberShot/Entities/LivingEntities/AIEntities/Ais/Base_AIBehavior.uasset
 [2017.06.08-12.50.44:626][977]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
-[2017.06.08-12.50.49:256][169]LogEdi
+[2017.06.08-12.50.49:256][169]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2017.06.08-12.50.53:869][355]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2017.06.08-12.50.57:510][503]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2017.06.08-12.51.10:767][ 69]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2017.06.08-12.51.13:981][200]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2017.06.08-12.51.19:572][424]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2017.06.08-12.51.28:042][792]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2017.06.08-12.51.42:001][328]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2017.06.08-12.52.11:181][324]LogSavePackage: Save=4673.90ms
+[2017.06.08-12.52.11:181][324]LogSavePackage: Moving '../../../../../../Users/Midnight/Desktop/CyberShotTesting/ProjectCyberShot/Saved/FirstPersonExampleMap21B619FD4869ED83DAFE80A47D1FECCC.tmp' to '../../../../../../Users/Midnight/Desktop/CyberShotTesting/ProjectCyberShot/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2017.06.08-12.52.11:195][324]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Midnight/Desktop/CyberShotTesting/ProjectCyberShot/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2017.06.08-12.52.11:288][324]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 5.185
+[2017.06.08-12.54.00:687][953]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0020 seconds. Added 111 classes and 0 folders.
+[2017.06.08-12.54.51:273][886]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.06.08-12.55.07:331][560]LogSavePackage: Save=27.25ms
+[2017.06.08-12.55.07:331][560]LogSavePackage: Moving '../../../../../../Users/Midnight/Desktop/CyberShotTesting/ProjectCyberShot/Saved/LivingEntity_E5EBEDBB447A83AC4C38C5E9BB652984D.tmp' to '../../../../../../Users/Midnight/Desktop/CyberShotTesting/ProjectCyberShot/Content/CyberShot/Entities/LivingEntities/LivingEntity_E.uasset'
+[2017.06.08-12.55.07:340][560]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Midnight/Desktop/CyberShotTesting/ProjectCyberShot/Content/CyberShot/Entities/LivingEntities/LivingEntity_E.uasset
+[2017.06.08-12.55.08:708][609]BlueprintLog: New page: Compile LivingEntity_E
+[2017.06.08-12.55.09:066][609]BlueprintEditorCompileResults: Info [0455.02] Compile of LivingEntity_E successful! [in 357 ms] (/Game/CyberShot/Entities/LivingEntities/LivingEntity_E.LivingEntity_E)
+[2017.06.08-12.55.51:363][440]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.06.08-12.57.03:748][248]LogSavePackage: Save=5.43ms
+[2017.06.08-12.57.03:748][248]LogSavePackage: Moving '../../../../../../Users/Midnight/Desktop/CyberShotTesting/ProjectCyberShot/Saved/Base_AIBlackboardACDC42D6426A01474D2223A40F372E8D.tmp' to '../../../../../../Users/Midnight/Desktop/CyberShotTesting/ProjectCyberShot/Content/CyberShot/Entities/LivingEntities/AIEntities/Ais/Base_AIBlackboard.uasset'
+[2017.06.08-12.57.03:761][248]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Midnight/Desktop/CyberShotTesting/ProjectCyberShot/Content/CyberShot/Entities/LivingEntities/AIEntities/Ais/Base_AIBlackboard.uasset
+[2017.06.08-12.59.39:671][474]LogSavePackage: Save=6.56ms
+[2017.06.08-12.59.39:671][474]LogSavePackage: Moving '../../../../../../Users/Midnight/Desktop/CyberShotTesting/ProjectCyberShot/Saved/Base_AIBehavior630FF9E14AD76DE50BE777A1D1777E55.tmp' to '../../../../../../Users/Midnight/Desktop/CyberShotTesting/ProjectCyberShot/Content/CyberShot/Entities/LivingEntities/AIEntities/Ais/Base_AIBehavior.uasset'
+[2017.06.08-12.59.39:683][474]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Midnight/Desktop/CyberShotTesting/ProjectCyberShot/Content/CyberShot/Entities
